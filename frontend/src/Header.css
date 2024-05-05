@@ -1,0 +1,32 @@
+.header-container {
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between; 
+  padding: 20px;
+  background-color: #007bff30; 
+  border-bottom: 2px solid #ccc;
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  margin-bottom: 20px;
+  transition: color 0.33s; 
+}
+
+.user-info {
+  display: flex; 
+  align-items: center; 
+}
+
+.user-info img {
+  width: 50px; 
+  height: 50px;
+  border-radius: 50%; 
+  margin-right: 20px; 
+}
+
+.user-details p {
+  margin: 0; 
+}
+
+.header-container:hover {
+  color: #000000a6
+}
