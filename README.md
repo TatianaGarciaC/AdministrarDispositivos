@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Inventario de Dispositivos
 Este es un proyecto de aplicación web para gestionar un inventario de dispositivos. La aplicación consta de un frontend desarrollado con React y un backend construido con Node.js y Fastify, y utiliza una base de datos MongoDB para almacenar los datos.
 
@@ -61,3 +62,7 @@ Las contribuciones son bienvenidas. Si encuentras algún problema o deseas mejora
 
 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+=======
+# AdministrarDispositivos
+Sistema de Inventario de Dispositivos: GestiÃ³n Eficiente con React.js Node.js MongoDB Atlas y Secret Kubernates
+>>>>>>> 27b26721c44c49e1aed400a68c7cc5a5e781df9d
